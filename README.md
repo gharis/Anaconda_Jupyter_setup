@@ -1,4 +1,4 @@
-# Anaconda_Jupyter_setup
+# Anaconda Jupyter setup
 Install anaconda from https://www.anaconda.com/products/individual
 ## Anaconda prompt run as administrator 
 
