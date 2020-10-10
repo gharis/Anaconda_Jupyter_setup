@@ -1,5 +1,5 @@
 # Anaconda_Jupyter_setup
-
+Install anaconda from https://www.anaconda.com/products/individual
 ## Anaconda prompt run as administrator 
 
 *use following commands 
@@ -19,7 +19,9 @@ https://github.com/tensorflow/tensorflow/issues/30191
 
 pip install tensorflow
 
-## got to file derectory to run jupyter note book
+## Go to file derectory to run jupyter note book
+
+Anaconda prompt 
 
 (base) C:\WINDOWS\system32>cd /
  
